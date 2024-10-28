@@ -1,6 +1,7 @@
 body {
     color: white;
     background: black;
+    margin: ;
 }
 header {
     border-bottom: solid 2px rgb (42, 122, 228);
@@ -8,3 +9,11 @@ header {
     font-size: 32px;
     color: rpb(42, 122, 228);
 }
+
+section{
+    background:rgb(red, green, blue) (184, 156, 213);
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
